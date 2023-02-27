@@ -1,0 +1,16 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+section {
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+#back-to-top-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
